@@ -1,4 +1,4 @@
-# Remember-NanaimoOnline-Ver4A 
+# Remember-NanaimoOnline-Ver4
 
 
 Prototype (Minimum Viable Product) from Nelson, Lan. Who are former Nanaimo online player since server startup. This project rebuild memory of the game.
