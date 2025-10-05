@@ -1,7 +1,7 @@
 # Remember-NanaimoOnline-Ver4
 
 
-Prototype (Minimum Viable Product) from Nelson, Lan. Who are former Nanaimo online player since server startup. This project rebuild memory of the game.
+Prototype (Minimum Viable Product) from Nelson, Lan. Who are the former Nanaimo online players since the server's startup This project rebuilds the memory of the game.
 
 ---
 
@@ -14,7 +14,7 @@ Prototype (Minimum Viable Product) from Nelson, Lan. Who are former Nanaimo onli
 
 **【Project disclaimer in English】**
 
-Picture(s) comes from web-search-source (as known as Google Creative Common Search). The ownership and copyright of picture(s) or original design are or is belong to certain companies or corps. I assert that such alleged infringement is permissible under "Fair use " principles in copyright laws. Homage / Archetype is a format of art, that shows respect or dedication to something by direct use of original design ideas.
+Picture(s) comes from web-search-source (as known as Google Creative Commons Search). The ownership and copyright of picture(s) or original design are or is belong to certain companies or corps. I assert that such alleged infringement is permissible under "Fair use " principles in copyright laws. Homage / Archetype is a format of art that shows respect or dedication to something by direct use of original design ideas.
 
 ~~Any of the user-created content is allowed to be created, but content should be shared in appropriate ways (SA) that are mentioned in part 2 in this book. Further, all of the user-created content should not be monetised or commercialised (NC).~~ 
 (Deleted is not acceptable for this version now.)
@@ -45,11 +45,12 @@ Picture(s) comes from web-search-source (as known as Google Creative Common Sear
 
 ---
 **【專案發行】**
-專案考慮不會離開以下幾個方案的形式發佈：
-~~- 於GitHub下載~~　 (待更新)
+
+【里程碑第四階段最終發行】
+
+專案已考慮以下幾個方案的形式發佈：
+
 - 於GitHub上遊玩
-~~同時開放Fork及Pull功能，給予外界更有心人修改。~~~ (暫沒開放)
-- YouTube 外鏈結宣傳下載。
-- 諮詢版務意見後，公佈於可宣傳的論壇。 或許製成移動版本。
+- https://nelsonlan01.itch.io/remember-nanaimo-online
 
 ===============================================
