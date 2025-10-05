@@ -50,7 +50,7 @@ Picture(s) comes from web-search-source (as known as Google Creative Commons Sea
 
 專案已考慮以下幾個方案的形式發佈：
 
-- 於GitHub上遊玩
-- https://nelsonlan01.itch.io/remember-nanaimo-online
+1. 於本GitHub上遊玩 (無需下載)
+2. 於itch.io (Nelson LAN專頁找到 )上遊玩 https://nelsonlan01.itch.io/remember-nanaimo-online
 
 ===============================================
